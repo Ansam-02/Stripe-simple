@@ -1,1 +1,1 @@
-# Stripe-simple
+# public
